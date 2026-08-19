@@ -12,7 +12,9 @@ You can click the Preview link to take a look at your changes.
   <img src="https://img.shields.io/badge/Open%20to-Work-success?style=flat-square" />
 </p>
 
-I turn messy, raw data into governed, production-ready systems — and increasingly, into AI agents that reason over that data. My work spans the full stack: **ELT/ETL pipelines → modeled warehouses → dashboards**, and on the AI side, **RAG pipelines → multi-agent systems → AI-powered products**.
+I build the infrastructure that lets businesses actually trust their data, and increasingly, the AI products that run on top of it. That means taking raw, messy inputs and shaping them into something governed and reliable enough to build on. It also means going a step further: RAG pipelines, multi-agent systems, AI products that don't just store data but reason over it and put it to work.
+
+Full stack, start to finish: ELT/ETL to get the data in, modeling to make it usable, dashboards and AI agents to put it in front of people who need it.
 
 - Currently building **RAG and multi-agent applications**, and predictive models on operational/industrial data
 - Comfortable across the modern data stack: **SQL Server, dbt, BigQuery, Databricks (Medallion architecture), Airflow**
