@@ -17,11 +17,9 @@ I build the infrastructure that lets businesses actually trust their data, and i
 Full stack, start to finish: ELT/ETL to get the data in, modeling to make it usable, dashboards and AI agents to put it in front of people who need it.
 
 - Currently building **RAG and multi-agent applications**, and predictive models on operational/industrial data
-- Comfortable across the modern data stack: **SQL Server, dbt, BigQuery, Databricks (Medallion architecture), Airflow**
 - Exploring **LangChain, MCP servers, and agentic AI** for real-world automation
 - Ship dashboards that people actually use, in **Power BI** and **Tableau**
 - I occasionally write on data & analytics at my [newsletter](https://spliichxhub.substack.com/)
-- Ask me about data warehousing, dbt modeling, BI, or building with LLMs
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
