@@ -45,7 +45,6 @@ Full stack, start to finish: ELT/ETL to get the data in, modeling to make it usa
 | [`multi-agent`](https://github.com/drealchux/multi-agent) | Multi-agent system for automated task orchestration |
 | [`mcp-langchain`](https://github.com/drealchux/mcp-langchain) | LangChain + Model Context Protocol experiments |
 | [`ai-job-saas`](https://github.com/drealchux/ai-job-saas) | AI-powered job-matching SaaS |
-| [`AI-SQL`](https://github.com/drealchux/AI-SQL) | Natural-language-to-SQL exploration |
 | [`assistant`](https://github.com/drealchux/assistant) | Personal AI assistant project |
 
 **Data Engineering & Warehousing**
@@ -66,6 +65,8 @@ Full stack, start to finish: ELT/ETL to get the data in, modeling to make it usa
 | [`hivaids-epidemiology`](https://github.com/drealchux/hivaids-epidemiology) | Epidemiological data analysis |
 | [`rop-predictive-performance`](https://github.com/drealchux/rop-predictive-performance) | Predictive performance modeling |
 | [`ride-analytics`](https://github.com/drealchux/ride-analytics) | Risk analytics project |
+| [`fitbit-tracker-analysis`](https://github.com/drealchux/fitbit-tracker-analysis) | Fitbit Tracker Analysis |
+
 
 *(See [pinned repos](https://github.com/drealchux?tab=repositories) for the full list.)*
 
