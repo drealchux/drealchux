@@ -63,6 +63,7 @@ Full stack, start to finish: ELT/ETL to get the data in, modeling to make it usa
 | [`tableau-projects`](https://github.com/drealchux/tableau-projects) | Tableau dashboards for analytics and storytelling |
 | [`hiring-analytics`](https://github.com/drealchux/hiring-analytics) | Predictive analytics on hiring/recruitment data |
 | [`hivaids-epidemiology`](https://github.com/drealchux/hivaids-epidemiology) | Epidemiological data analysis |
+| [`automobile`](https://github.com/drealchux/automobile) | Automobile data analysis |
 | [`rop-predictive-performance`](https://github.com/drealchux/rop-predictive-performance) | Predictive performance modeling |
 | [`ride-analytics`](https://github.com/drealchux/ride-analytics) | Risk analytics project |
 | [`fitbit-tracker-analysis`](https://github.com/drealchux/fitbit-tracker-analysis) | Fitbit Tracker Analysis |
